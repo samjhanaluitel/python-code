@@ -1,0 +1,10 @@
+print('twinkel twinkel littel star '
+      '\n\tHow i wonder what you are \n\t\tUp above te world so high,'
+      ' \n\t\t\tLike a dimond in the sky.\n\nThen the travalers in the dark,'
+      ' \n\tThanks you for your tiny spark, \n\t\tHe could not see where to go '
+      '\n\t\t\t If you din not twinkel so. \n\nIn the dark blue sky you keep, '
+      '\n\tAnd often through my curtian beep, \n\t\tFor you never shut your eyes \n\t\t\t'
+      'Till the sun is in the sky. \n\nAs your bright and tiny spark, '
+      '\n\tLight the the travalers in the dark, \n\t\tThough i know'
+      ' not what you are,'
+      ' \n\t\t\tTwinkel twinkel littel star. ')

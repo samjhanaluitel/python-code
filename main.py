@@ -13,3 +13,21 @@ print('Twinkle twinkle little star '
       '\n\tLight the the traveller in the dark, \n\t\tThough i know'
       ' not what you are,'
       ' \n\t\t\tTwinkle twinkle star.')
+
+print({True: 'yes', 1:'no', 1.0:'Tips'})
+
+import sys
+print('Python Version')
+print(sys.version)
+print('Version info')
+print(sys.version_info)
+
+import platform
+print(platform.python_version_tuple())
+print(type(platform.python_version_tuple()))
+
+import datetime
+now = datetime.datetime.now()
+print('Current date and time: ')
+print(now.strftime("%Y-%m-%d  %H-%M-%S"))
+
